@@ -13,13 +13,6 @@ Welcome to my GitHub! I'm a software engineer passionate about building scalable
 
 ---
 
-### 🌱 Currently Working On
-- 🖼️ A web app for analyzing image parlays and predictions
-- 🏃‍♂️ Personal projects like my personal website
-- 🧠 Exploring AI-assisted tooling and APIs for creative workflows
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
